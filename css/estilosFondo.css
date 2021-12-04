@@ -1,0 +1,44 @@
+.color1 {color: #0e4f56;}
+.color2 {color: #0e6d5c;}
+.color3 {color: #0a9b5f;}
+.color4 {color: #51d55a;}
+.color5 {color: #d4ff5d;}
+
+body{
+    background-size: 100%;
+    background-position: center;
+   
+}
+
+.fondo{
+    
+}
+
+.padre{
+    background-color: #e6f3ed4b;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+
+.yo{
+    background-color: black;
+}
+
+.bg-dark{
+    background-color: rgba(0, 0, 0, 0.411);
+}
+
+.l-form{
+    width: 40%;
+}
+
+.padin-f{
+    padding: 15px;
+}
+
+.espacio{
+    margin-top: 10px;
+}
